@@ -1,0 +1,21 @@
+E:\Data\Programming\Line_Integral\Line_Integral\bin\Debug\Line_Integral.exe
+E:\Data\Programming\Line_Integral\Line_Integral\bin\Debug\Line_Integral.pdb
+E:\Data\Programming\Line_Integral\Line_Integral\bin\Debug\Line_Integral.xml
+E:\Data\Programming\Line_Integral\Line_Integral\obj\Debug\ResolveAssemblyReference.cache
+E:\Data\Programming\Line_Integral\Line_Integral\obj\Debug\Line_Integral.Form1.resources
+E:\Data\Programming\Line_Integral\Line_Integral\obj\Debug\Line_Integral.Resources.resources
+E:\Data\Programming\Line_Integral\Line_Integral\obj\Debug\Line_Integral.vbproj.GenerateResource.Cache
+E:\Data\Programming\Line_Integral\Line_Integral\obj\Debug\Line_Integral.exe
+E:\Data\Programming\Line_Integral\Line_Integral\obj\Debug\Line_Integral.xml
+E:\Data\Programming\Line_Integral\Line_Integral\obj\Debug\Line_Integral.pdb
+C:\Users\Mighty_Owl\Documents\Old PC\Data\Programming\Line_Integral\Line_Integral\bin\Debug\Line_Integral.exe
+C:\Users\Mighty_Owl\Documents\Old PC\Data\Programming\Line_Integral\Line_Integral\bin\Debug\Line_Integral.pdb
+C:\Users\Mighty_Owl\Documents\Old PC\Data\Programming\Line_Integral\Line_Integral\bin\Debug\Line_Integral.xml
+C:\Users\Mighty_Owl\Documents\Old PC\Data\Programming\Line_Integral\Line_Integral\obj\Debug\Line_Integral.vbprojAssemblyReference.cache
+C:\Users\Mighty_Owl\Documents\Old PC\Data\Programming\Line_Integral\Line_Integral\obj\Debug\Line_Integral.Form1.resources
+C:\Users\Mighty_Owl\Documents\Old PC\Data\Programming\Line_Integral\Line_Integral\obj\Debug\Line_Integral.Resources.resources
+C:\Users\Mighty_Owl\Documents\Old PC\Data\Programming\Line_Integral\Line_Integral\obj\Debug\Line_Integral.vbproj.GenerateResource.cache
+C:\Users\Mighty_Owl\Documents\Old PC\Data\Programming\Line_Integral\Line_Integral\obj\Debug\Line_Integral.vbproj.CoreCompileInputs.cache
+C:\Users\Mighty_Owl\Documents\Old PC\Data\Programming\Line_Integral\Line_Integral\obj\Debug\Line_Integral.exe
+C:\Users\Mighty_Owl\Documents\Old PC\Data\Programming\Line_Integral\Line_Integral\obj\Debug\Line_Integral.xml
+C:\Users\Mighty_Owl\Documents\Old PC\Data\Programming\Line_Integral\Line_Integral\obj\Debug\Line_Integral.pdb
